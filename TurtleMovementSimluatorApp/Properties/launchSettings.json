@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TurtleMovementSimluatorApp": {
+      "commandName": "Project",
+      "commandLineArgs": "PLACE 0,0,NORTH\n\nMOVE\n\nREPORT"
+    }
+  }
+}
